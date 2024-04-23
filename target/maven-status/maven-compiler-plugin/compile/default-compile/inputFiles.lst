@@ -1,0 +1,7 @@
+/home/pandey/deassignpairing/src/main/java/com/example/ibs/health/MyHealthCheck.java
+/home/pandey/deassignpairing/src/main/java/com/example/ibs/health/MyLivenessCheck.java
+/home/pandey/deassignpairing/src/main/java/com/example/ibs/request/DeAssignPairing.java
+/home/pandey/deassignpairing/src/main/java/com/example/ibs/request/DeassignPairingInput.java
+/home/pandey/deassignpairing/src/main/java/com/example/ibs/response/DePairingAssigned.java
+/home/pandey/deassignpairing/src/main/java/com/example/ibs/service/DeAssignCrewpairingService.java
+/home/pandey/deassignpairing/src/main/java/com/example/ibs/service/impl/crewpairingServiceImpl.java
